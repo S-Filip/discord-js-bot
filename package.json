@@ -1,12 +1,14 @@
 {
   "dependencies": {
-    "discord.js": "^14.7.1"
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
   },
   "name": "discord-js-bot",
   "version": "1.0.0",
-  "main": "commands.js",
+  "main": "index.js",
+  "devDependencies": {},
   "scripts": {
-    "test": "node commands.js"
+    "test": "node src/index.js"
   },
   "author": "",
   "license": "ISC",
