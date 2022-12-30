@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "name": "discord-js-bot",
+  "version": "1.0.0",
+  "main": "commands.js",
+  "scripts": {
+    "test": "node commands.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
